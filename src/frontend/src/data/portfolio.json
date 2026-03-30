@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Abishake Arulmani",
+    "label": "Full Stack Developer / Data Analyst",
+    "email": "abishakeprakash001@gmail.com",
+    "phone": "8524890404",
+    "url": "https://www.linkedin.com",
+    "summary": "Versatile Developer and Data Analyst with over 2 years of experience building high-performance web applications and fintech solutions. Currently contributing to Zoho Japan's Online Marketing operations, leveraging AI and automation to streamline business logic. Proficient in the JavaScript ecosystem (React, Next.js, Node.js, NestJS) and backend languages like Go, with a strong foundation in SQL and data-driven optimization.",
+    "location": {
+      "city": "Chennai",
+      "region": "Tamil Nadu",
+      "countryCode": "IN"
+    }
+  },
+  "work": [
+    {
+      "name": "ZOHO CORPORATION (Zoho Japan - Online Marketing)",
+      "position": "DA / Developer",
+      "startDate": "2025-11-01",
+      "endDate": "Present",
+      "highlights": [
+        "Optimized core business logic to ensure seamless operational workflows for international markets.",
+        "Integrated AI solutions to automate manual marketing tasks, significantly increasing efficiency and data sanity.",
+        "Architected an automated notification system via email and SMS providing daily business statistics and growth metrics.",
+        "Stack: JS, Deluge, SQL, Excel"
+      ]
+    },
+    {
+      "name": "HALOQUANT TECHNOLOGIES",
+      "position": "Software Engineer",
+      "startDate": "2024-01-01",
+      "endDate": "2025-10-01",
+      "highlights": [
+        "Gravitus Exchange: Migrated legacy systems and optimized backend for high-frequency API requests using ExpressJS and Golang.",
+        "LMS: Developed a comprehensive Learning Management System featuring real-time socket-driven notifications and a community forum.",
+        "Mugavari Foundation: Built a multi-role management and sponsorship integration system using NestJS and PostgreSQL.",
+        "Implemented high-performance data structures like Fibonacci Heaps for exchange performance optimization."
+      ]
+    },
+    {
+      "name": "HIGH ON SWIFT",
+      "position": "Junior Developer",
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-01",
+      "highlights": [
+        "Teller One: Designed and deployed Feedback and Service Request modules for patient and admin applications.",
+        "IBC Cases: Developed a responsive repository platform for legal documents using React.js and Material UI.",
+        "Gained deep proficiency in Next.js, Prisma, and SQL for building user-friendly web applications."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Periyar EVR College, Trichy",
+      "area": "Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-06-01",
+      "endDate": "2021-05-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages & Frameworks",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "React JS",
+        "Next JS",
+        "Node.js",
+        "Express JS",
+        "NestJS",
+        "Go",
+        "Fast API",
+        "Deluge"
+      ]
+    },
+    {
+      "name": "Databases & Tools",
+      "keywords": [
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Excel",
+        "Git",
+        "Postman",
+        "Swagger",
+        "VS Code"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Feature Projects",
+      "description": "Packers and Movers, Stockmarket Strategies, Customer Relationship Management (CRM)"
+    },
+    { "name": "Pilot Projects", "description": "Contact App, TradeAlert" }
+  ],
+  "languages": [
+    { "language": "Tamil", "fluency": "Native" },
+    { "language": "English", "fluency": "Intermediate" }
+  ],
+  "interests": [
+    { "name": "Full Stack Development" },
+    { "name": "AI" },
+    { "name": "Networking" }
+  ],
+  "links": {
+    "facebook": "https://www.facebook.com/abishakearulmani/",
+    "whatsapp": "https://web.whatsapp.com/send/?phone=%2B918524890404&text&type=phone_number&app_absent=0",
+    "linkedin": "https://www.linkedin.com",
+    "github": "https://github.com/AbishakePrakash"
+  }
+}
